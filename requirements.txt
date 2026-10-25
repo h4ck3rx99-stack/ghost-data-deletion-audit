@@ -1,0 +1,8 @@
+# Ghost Data Still Exists — deletion-audit agent.
+# The deterministic core and the LLM backends (urllib-based) need only the stdlib.
+# pypdf reads the text-layer policy / legal-hold PDFs.
+pypdf>=4.0
+# pymupdf + Pillow are used ONLY by the one-time vision pass (code/vision.py) to
+# rasterize scanned PDFs; the offline main run and load_vision_records do not need them.
+pymupdf>=1.24
+Pillow>=10.0

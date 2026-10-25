@@ -1,0 +1,13 @@
+[
+  {
+    "resource_id": "marketing_001",
+    "email": "sj.park@naver.com",
+    "phone": "+82 10-5837-9451",
+    "name": "Soo-jin Park",
+    "user_id": null,
+    "present": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "identifiable": true
+  }
+]

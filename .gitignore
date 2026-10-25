@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+code/.cache/
+_dist/
+# submission artifacts (built on demand, not source)
+code.zip
+agent-trace.zip
+agent-trace/

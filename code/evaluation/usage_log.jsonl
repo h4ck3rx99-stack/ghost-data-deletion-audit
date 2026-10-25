@@ -1,0 +1,17 @@
+{"ts": "2026-10-24T21:09:35Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2284, "out_tokens": 8891}
+{"ts": "2026-10-24T21:10:28Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2455, "out_tokens": 1194}
+{"ts": "2026-10-24T21:11:23Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2284, "out_tokens": 1970}
+{"ts": "2026-10-24T21:12:09Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2341, "out_tokens": 1809}
+{"ts": "2026-10-24T21:12:35Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 0, "out_tokens": 0}
+{"ts": "2026-10-24T21:13:44Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2341, "out_tokens": 1515}
+{"ts": "2026-10-24T21:15:07Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2284, "out_tokens": 1589}
+{"ts": "2026-10-24T21:15:53Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2455, "out_tokens": 1282}
+{"ts": "2026-10-24T21:16:30Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2341, "out_tokens": 1620}
+{"ts": "2026-10-24T21:18:14Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2284, "out_tokens": 3678}
+{"ts": "2026-10-24T21:18:57Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2341, "out_tokens": 1000}
+{"ts": "2026-10-24T21:19:23Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 0, "out_tokens": 0}
+{"ts": "2026-10-24T21:20:12Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 1652, "out_tokens": 1421}
+{"ts": "2026-10-25T01:38:17Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 3587, "out_tokens": 1781}
+{"ts": "2026-10-25T01:38:29Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2284, "out_tokens": 1883}
+{"ts": "2026-10-25T01:38:35Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 2341, "out_tokens": 806}
+{"ts": "2026-10-25T01:38:45Z", "provider": "openrouter", "model": "nvidia/nemotron-3.5-super-vl:free", "kind": "vision", "in_tokens": 3587, "out_tokens": 1208}

@@ -1,0 +1,24 @@
+[
+  {
+    "resource_id": "search_428",
+    "email": "g.silva76@gmail.com",
+    "phone": null,
+    "name": "Gabriel Silva",
+    "user_id": "user_13",
+    "present": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "identifiable": true
+  },
+  {
+    "resource_id": "search_1874",
+    "email": "g.silva76jr@gmail.com",
+    "phone": null,
+    "name": null,
+    "user_id": null,
+    "present": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "identifiable": true
+  }
+]
